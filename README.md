@@ -1,14 +1,14 @@
 # Image Classification using Pytorch and Convolutional Neural Networks
 
 ## Table of Contents: 
-i) Overview of Project<br>
+* Overview of Project
 
-ii)Data Description <br>
-iii) Libraries used<br>
+* Data Description 
+* Libraries used
 
-iv) Structure of the Approach<br>
+* Structure of the Approach
 
-v) Conclusion<br>
+* Conclusion
 
 
 
