@@ -40,6 +40,6 @@ Number of images in test set :
 
 ## Structure of the Approach
 
-* ### Step 1 <br>
+* Step 1 <br>
  </t></t> abc
  
