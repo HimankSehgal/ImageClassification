@@ -32,6 +32,8 @@ Number of images in test set :
 * Matplotlib
 
 * torch
+* torchvision
+  Hl
 * sklearn
 
 * os module of python
