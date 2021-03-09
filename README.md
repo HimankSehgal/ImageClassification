@@ -19,9 +19,10 @@ We are given a dataset which contains images of Dogs and Cats . Our aim is to de
 
 ## Data Description:   
 For this project , I will be using the data from a Kaggle Competition named <a href='https://www.kaggle.com/c/dogs-vs-cats'>Dogs v. Cats</a>.<br>
+It has a varied collection of .jpg files which have been organized by me into separate train and test folders, and further divided the images into CAT and DOG subfolders.This helps to easily track files while writing the code
 
-For this section we'll be working with a version of the Cats vs. Dogs dataset inspired by a classic <a href='https://www.kaggle.com/c/dogs-vs-cats'>Kaggle competition</a>.<br>
-
-We have organized the files into train and test folders, and further divided the images into CAT and DOG subfolders. In this way the file path contains the label.
+Total number of images in dataset : 24994
+Number of images in train set : 18743
+Number of images in test set : 6251
 ## References:
 [Deep learning for stock prediction using numerical and textual information](https://www.researchgate.net/publication/306925671_Deep_learning_for_stock_prediction_using_numerical_and_textual_information)- Ryo Akita, Akira Yoshihara, Takashi Matsubara, Kuniaki Uehara
