@@ -26,4 +26,15 @@ Number of images in test set :
 
 
 ## Libraries used:
-[Deep learning for stock prediction using numerical and textual information](https://www.researchgate.net/publication/306925671_Deep_learning_for_stock_prediction_using_numerical_and_textual_information)- Ryo Akita, Akira Yoshihara, Takashi Matsubara, Kuniaki Uehara
+* Numpy
+
+* Pandas
+* Matplotlib
+
+* torch
+* sklearn
+
+* os module of python
+
+## Structure of the Approach
+
