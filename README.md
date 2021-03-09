@@ -33,10 +33,12 @@ Number of images in test set :
 
 * torch
 * torchvision<br>
-  </t>Hl
+  
 * sklearn
 
 * os module of python
 
 ## Structure of the Approach
 
+* ### Step 1<br> <\t> abc
+ 
