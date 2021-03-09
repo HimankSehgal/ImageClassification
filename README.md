@@ -78,4 +78,4 @@ Plotted graphs to see the pattern of different parameters that were stored in a 
 
 ## Conclusion
 
-
+The model achieved an accuracy of XYZ , and it took ABC time to train on my computer
