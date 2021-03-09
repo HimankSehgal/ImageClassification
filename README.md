@@ -1,14 +1,14 @@
 # Image Classification using Pytorch and Convolutional Neural Networks
 
 ## Table of Contents: 
-* Overview of Project
+i) Overview of Project<br>
 
-* Data Description 
-* Libraries used
+ii)Data Description <br>
+iii) Libraries used<br>
 
-* Structure of the Approach
+iv) Structure of the Approach<br>
 
-* Conclusion
+v) Conclusion<br>
 
 
 
@@ -25,5 +25,5 @@ Number of images in train set : 18743<br>
 Number of images in test set : 
 
 
-## References:
+## Libraries used:
 [Deep learning for stock prediction using numerical and textual information](https://www.researchgate.net/publication/306925671_Deep_learning_for_stock_prediction_using_numerical_and_textual_information)- Ryo Akita, Akira Yoshihara, Takashi Matsubara, Kuniaki Uehara
