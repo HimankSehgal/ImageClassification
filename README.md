@@ -74,3 +74,8 @@ We are using the criteria as <tt> nn.CrossEntropyLoss() </tt> and optimizer as <
 Performed 20 epochs and stored values of train_loss, test_loss, train_accuracy ,test_accuracy for every epoch for plotting graphs later on
 
 * ### 6. Evaluating performance
+Plotted graphs to see the pattern of different parameters that were stored in a list during forward propagation
+
+## Conclusion
+
+
