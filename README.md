@@ -18,11 +18,13 @@ We are given a dataset which contains images of Dogs and Cats . Our aim is to de
 
 ## Data Description:   
 For this project , I will be using the data from a Kaggle Competition named <a href='https://www.kaggle.com/c/dogs-vs-cats'>Dogs v. Cats</a>.<br>
-It has a varied collection of .jpg files which have been organized by me into separate train and test folders, and further divided the images into CAT and DOG subfolders.This helps to easily track files while writing the code .The data folders have been given in this repository
+It has a varied collection of .jpg files which have been organized by me into separate train and test folders, and further divided the images into CAT and DOG subfolders.This helps to easily track files while writing the code .The data files have been cleaned and several files which give an error have been removed. 
 
 Total number of images in dataset : 24994<br>
 Number of images in train set : 18743<br>
-Number of images in test set : 
+Number of images in test set : 6251
+
+I have put only a few photos from this dataset in this repository since it was not possible to upload so many files on github
 
 
 ## Libraries used:
