@@ -24,7 +24,7 @@ Total number of images in dataset : 24994<br>
 Number of images in train set : 18743<br>
 Number of images in test set : 6251
 
-I have put only a few photos from this dataset in this repository since it was not possible to upload so many files on github
+
 
 
 ## Libraries used:
