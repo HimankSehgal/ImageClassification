@@ -41,8 +41,8 @@ Number of images in test set :
 ## Structure of the Approach
 
 * ### 1. Defining Transformations for train and test data
-** ads
-
+As different images have different sizes, it is important to define a tranform function which can take different images and return images which have similar aspect ratios and size. We will be using functions like <tt>  transforms.Resize( ) , transforms.CenterCrop() </tt>
+ 
 * ### 2. Define a convolutional neural network <br>
 
 Define a CNN model that can be trained on the Fashion-MNIST dataset. The model should contain two convolutional layers, two pooling layers, and two fully connected layers. You can use any number of neurons per layer so long as the model takes in a 28x28 image and returns an output of 10. Portions of the definition have been filled in for convenience.
