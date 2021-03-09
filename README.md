@@ -13,20 +13,11 @@
 
 
 
-## Approach:
+## Overview of Project:
 
-* Extract Sentiment Scores from given newspaper headlines data, with the help of nltk's SentimentIntensityAnalyzer
+We are given a dataset which contains images of Dogs and Cats . Our aim is to develop an algorithm  which will take an input image and based on parameters the algorithm has learned , it will predict whether the given input test image is a cat or dog
 
-* For this problem statement, I took inspiration from this [awesome paper](https://www.researchgate.net/publication/306925671_Deep_learning_for_stock_prediction_using_numerical_and_textual_information) and decided to carry out Multivariate Time Series Forecasting using Keras' LSTM.
-
-* I used LSTM (Long Short-Term Memory), to model the temporal effects of past events(both Textual, i.e the sentiment scores and Historical stock data) on opening prices
-
-* Achieved Training loss: 0.0479 and Validation loss: 0.0254
-
-* Achieved RMSE on the Test data : 475.102
-
-
-## Data used to analyze and predict: 
+## Data Description: 
 * Historical stock prices(SENSEX (S&P BSE SENSEX)) from https://finance.yahoo.com/
 
 * Textual (News) data from https://bit.ly/36fFPI6
