@@ -1,8 +1,16 @@
 # Image Classification using Pytorch and Convolutional Neural Networks
 
-## Objective: 
-To create a hybrid model for stock price/performance prediction using numerical analysis of historical stock prices, and
-sentimental analysis of news headlines(of that particular day).
+## Table of Contents: 
+* Overview of Project
+
+* Data Description 
+
+* Libraries used
+
+* Structure of the Approach
+
+* Conclusion
+
 
 
 ## Approach:
