@@ -80,4 +80,4 @@ Plotted graphs to see the pattern of different parameters that were stored in a 
 
 ## Conclusion
 
-The model achieved an accuracy of XYZ , and it took ABC time to train on my computer
+The training loss was 0.58 and test loss was 0.30 in the end
