@@ -13,22 +13,13 @@
 
 
 ## Overview of Project:
-In this project we'll be performing sentiment analysis on Rotten Tomatoes Dataset whose dataset has been attached in this repo
+For this project , I will be using the data from a Kaggle Competition named <a href='https://www.kaggle.com/c/dogs-vs-cats'>Dogs v. Cats</a>.<br>
+It has a varied collection of .jpg files which have been organized by me into separate train and test folders, and further divided the images into CAT and DOG subfolders.This helps to easily track files while writing the code .The data files have been cleaned and several files which give an error have been removed. 
 
-The main task corresponds to a multi-class text classification on Movie Reviews Competition and the dataset contains 156.060 instances for training, whereas the testing set contains 66.292 from which we have to classify among 5 classes. The sentiment labels are:
+Total number of images in dataset : 24994<br>
+Number of images in train set : 18743<br>
+Number of images in test set : 6251
 
-0 → Negative      </br>
-1 → Somewhat negative  </br>
-2 → Neutral </br>
-3 → Somewhat positive </br>
-4 → Positive </br>
-
-
-We will be comparing the performace of following models
-* BiLSTM
-
-* BERT
-* RoBERTa
 
 
 ## Data Description:   
