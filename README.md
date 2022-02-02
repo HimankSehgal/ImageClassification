@@ -23,7 +23,7 @@ Number of images in test set : 6251
 
 
 ## Data Description:   
-For this project , I will be using the data from Kaggle <a href='https://www.kaggle.com/c/sentiment-analysis-on-movie-reviews/data'>Sentiment Analysis on Movie Reviews</a>.<br>
+
 It has a varied collection of .jpg files which have been organized by me into separate train and test folders, and further divided the images into CAT and DOG subfolders.This helps to easily track files while writing the code .The data files have been cleaned and several files which give an error have been removed. 
 
 Total number of images in dataset : 24994<br>
